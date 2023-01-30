@@ -1,0 +1,9 @@
+
+site_name: "java4"
+site_description: "java4"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
